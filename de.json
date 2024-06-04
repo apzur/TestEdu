@@ -1,5 +1,6 @@
 {
   "app.test": "Test",
+  "app.test.2": "Test 2",
   "about.title": "Systeminfo",
   "about.close": "Schließen",
   "about.version": "Version",
